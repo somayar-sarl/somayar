@@ -15,7 +15,7 @@ Le projet Somayar vise à améliorer la gestion des billets et l’expérience u
 ## Site officiel
 
 Pour en savoir plus sur le projet et découvrir nos services, consultez notre site web :  
-[Mon Site](https://somayar.ma)
+[Soamayar](https://somayar.ma)
 
 ---
 
